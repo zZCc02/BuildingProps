@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SmartCityToolset",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "MaYe",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SmartCityToolset",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
